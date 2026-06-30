@@ -1,0 +1,6 @@
+{
+  "name": "Mondial Company Predictor",
+  "description": "نظام توقعات كأس العالم الاحترافي لموظفي الشركات الكبرى. يضم لوحة متصدرين لـ 180 موظفاً، وتحليلاً بالذكاء الاصطناعي للمباريات، ومحاكاة فورية للنتائج وتوزيع النقاط وقوانين التوقعات العالمية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
